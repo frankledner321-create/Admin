@@ -1,0 +1,7 @@
+{
+  "name": "Micro-Job Admin Dashboard",
+  "description": "A high-performance administration panel for managing micro-job tasks, categories, users, and media, ready for Firebase integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
